@@ -1,7 +1,7 @@
 ﻿; Scientific Characters
 ; Version: 20230403
 
-!u:: ; alt+u
+!u:: ; alt+m
     send {U+03BC} ; Unicode char type
 Return ; μ
 
